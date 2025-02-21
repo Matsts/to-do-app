@@ -9,13 +9,6 @@ Welkom bij mijn to-do app
 3. **Teams** Gebruikers kunnen in teams werken door deze aan te maken en andere er voor uitnodigen.
 4. **Gebruikersauthenticatie**: Een eenvoudig systeem voor gebruikersregistratie en -aanmelding.
 
-## Vereisten
-
-- Laravel 10.x of hoger
-- PHP 8.1 of hoger
-- Composer
-- Een webserver (bijv. Apache of Nginx)
-
 ## Installatie
 
 1. **Clone de repository** naar je lokale machine:
